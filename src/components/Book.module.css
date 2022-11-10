@@ -1,0 +1,20 @@
+.book {
+  margin: 1rem;
+  padding: .5rem;
+  background-color: #300864;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+}
+
+.book h2 {
+  font-size: 2rem;
+  color: #ffe600;
+}
+
+.book h3 {
+  color: #f8cb42;
+  margin: 0;
+  font-size: 1rem;
+}
